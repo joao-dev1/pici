@@ -26,4 +26,4 @@ function escreverTextoAnimado(texto) {
   
   escreverProximaLetra();
 }
-escreverTextoAnimado("Bem Vindo ao dossiê do pici, aguarde novas atualizações nesse site!")
+escreverTextoAnimado("Bem Vindo Pedro, este site está sendo desenvolvido!")
